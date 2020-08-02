@@ -1,0 +1,2 @@
+# Clustering-of-Credit-Card-user-for-Marketing-Strategy
+Developed a clustering model of the credit card users of a company to established a better marketing strategy. K-means,PCA and Hierarchical model is used to developed the cluster. Data: https://www.kaggle.com/ainslie/credit-card-data-clustering-analysis/data The dataset summarizes the usage behavior of about 9000 active credit card holders during 6 months. The file is at a customer level with 18 behavioral variables.
